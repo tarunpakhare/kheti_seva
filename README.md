@@ -1,4 +1,4 @@
-# kheti_seva
+# Kheti_Seva
 The KhetiSeva app is a mobile application built with flutter for farmers that provides an interactive and 
 informational viewpoint to farmers. The app is designed to be easy to use and filled with 
 features that can help farmers to improve the productivity of their land as well as access useful 
@@ -18,3 +18,7 @@ techniques such as crop rotation, intercropping, organic farming, precision agri
 water conservation practices. By promoting sustainable farming practices and sharing 
 knowledge, the app aims to assist farmers in maximizing their crop productivity while 
 minimizing environmental impact.
+
+
+https://github.com/tarunpakhare/kheti_seva/assets/72435351/114baf3c-eee7-48ae-ab2f-6e13ffe45948
+
